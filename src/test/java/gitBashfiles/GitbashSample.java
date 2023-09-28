@@ -4,7 +4,7 @@ public class GitbashSample {
 
 	public static void main(String[] args) {
 	System.out.println("im hungry");
-
+	System.out.println("im hungry");
 	}
 
 }
